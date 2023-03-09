@@ -29,3 +29,8 @@ out/
 
 ### VS Code ###
 .vscode/
+
+bin/
+common/bin/
+executors/bin/
+indexation/bin/
